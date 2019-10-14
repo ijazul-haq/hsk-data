@@ -1,8 +1,8 @@
 ## Download HSK vocabulary JSON
 https://quickhsk.com/downloads
 
-<div>
-<img src='https://github.com/ijazul-haq/hsk-vocabulary/blob/master/img/1.JPG'/>
+<div  align="center">
+<img src='https://github.com/ijazul-haq/hsk-vocabulary/blob/master/img/1.jpg'/>
 </div>
 
 ## Download HSK vocabulary SQL
