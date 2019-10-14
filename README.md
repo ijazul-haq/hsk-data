@@ -2,7 +2,7 @@
 https://quickhsk.com/downloads
 
 <div>
-<img src='img/1.gif'/>
+<img src='https://github.com/ijazul-haq/hsk-vocabulary/blob/master/img/1.JPG'/>
 </div>
 
 ## Download HSK vocabulary SQL
