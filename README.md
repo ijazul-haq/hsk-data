@@ -1,8 +1,5 @@
 ## Download HSK vocabulary JSON
 https://quickhsk.com/downloads
-<div align="center">
-    <img src="img/1.jpg">
-</div>
 ## Download HSK vocabulary SQL
 https://quickhsk.com/downloads
 ## Download HSK vocabulary CSV
