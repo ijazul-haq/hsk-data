@@ -1,6 +1,6 @@
-# Download HSK vocabulary JSON
+## Download HSK vocabulary JSON
 https://quickhsk.com/downloads
-# Download HSK vocabulary SQL
+## Download HSK vocabulary SQL
 https://quickhsk.com/downloads
 # Download HSK vocabulary CSV
 https://quickhsk.com/downloads
