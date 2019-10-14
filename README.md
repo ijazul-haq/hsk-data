@@ -11,7 +11,8 @@ https://quickhsk.com/downloads
 <img width='800px' src='https://github.com/ijazul-haq/hsk-vocabulary/blob/master/img/1.JPG'/>
 </div>
 <hr>
-### Download HSK vocabulary JSON, SQL, CSV, XLS, DOC
+
+### Download HSK vocabulary in JSON, SQL, CSV, XLS, DOC
 https://quickhsk.com/downloads
 <hr>
 
