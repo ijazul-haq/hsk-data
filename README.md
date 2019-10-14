@@ -1,2 +1,11 @@
-# hsk-data
-HSK data in various formats, i.e. JSON, SQL, CSV, DOC, XLS, PDF
+# Download HSK vocabulary JSON
+
+# Download HSK vocabulary SQL
+
+# Download HSK vocabulary CSV
+
+# Download HSK vocabulary XLS
+
+# Download HSK vocabulary DOC
+
+# Download HSK vocabulary PDF
