@@ -9,3 +9,4 @@ https://quickhsk.com/downloads
 # Download HSK vocabulary DOC
 https://quickhsk.com/downloads
 # Download HSK vocabulary PDF
+https://quickhsk.com/downloads
