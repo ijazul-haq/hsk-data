@@ -2,7 +2,7 @@
 https://quickhsk.com/downloads
 
 <div>
-<img src='./img/1.jpg'/>
+<img src='img/1.gif'/>
 </div>
 
 ## Download HSK vocabulary SQL
