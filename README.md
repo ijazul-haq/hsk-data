@@ -17,5 +17,5 @@ https://quickhsk.com/downloads
 https://quickhsk.com/downloads
 
 <div  align="center">
-<img src='https://github.com/ijazul-haq/hsk-vocabulary/blob/master/img/2.JPG'/>
+<img src='https://github.com/ijazul-haq/hsk-vocabulary/blob/master/img/2.jpg'/>
 </div>
